@@ -1,0 +1,11 @@
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.csprojAssemblyReference.cache
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.Properties.Resources.resources
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.csproj.GenerateResource.cache
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.csproj.CoreCompileInputs.cache
+D:\wsVS\DeskNote\DeskNote\bin\Debug\DeskNote.exe
+D:\wsVS\DeskNote\DeskNote\bin\Debug\DeskNote.pdb
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.exe
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.pdb
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.DesktopNoteOption.resources
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.Form1.resources
+D:\wsVS\DeskNote\DeskNote\obj\Debug\DeskNote.drawForm.resources

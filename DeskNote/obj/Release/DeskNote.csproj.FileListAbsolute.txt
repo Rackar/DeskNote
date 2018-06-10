@@ -1,0 +1,9 @@
+D:\wsVS\DeskNote\DeskNote\bin\Release\DeskNote.exe
+D:\wsVS\DeskNote\DeskNote\bin\Release\DeskNote.pdb
+D:\wsVS\DeskNote\DeskNote\obj\Release\DeskNote.DesktopNote.resources
+D:\wsVS\DeskNote\DeskNote\obj\Release\DeskNote.DesktopNoteOption.resources
+D:\wsVS\DeskNote\DeskNote\obj\Release\DeskNote.Properties.Resources.resources
+D:\wsVS\DeskNote\DeskNote\obj\Release\DeskNote.csproj.GenerateResource.cache
+D:\wsVS\DeskNote\DeskNote\obj\Release\DeskNote.csproj.CoreCompileInputs.cache
+D:\wsVS\DeskNote\DeskNote\obj\Release\DeskNote.exe
+D:\wsVS\DeskNote\DeskNote\obj\Release\DeskNote.pdb

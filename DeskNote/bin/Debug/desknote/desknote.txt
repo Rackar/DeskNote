@@ -1,0 +1,6 @@
+Click once into edit mode.
+Double click to end edit.
+Option can change by right click the notice icon. 
+Text will be autosave in any changes,
+and reload again when you restart the program.
+
